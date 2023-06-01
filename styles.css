@@ -1,0 +1,39 @@
+.flex-container{
+    height:450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.w1{
+padding:20px;
+border: 5px solid black;
+border-radius: 15px;
+background-color: beige;
+font-family: Arial, sans-serif;
+}
+h2{
+    font-family: Arial, sans-serif;
+    position: relative;
+    left:20px;
+}
+td{
+    padding:5px;
+}
+.y{
+    padding:10px;
+    border-radius: 10px;
+    position:relative;
+    left:68px;
+    font-size: medium;
+    background-color: aquamarine;
+    color:blueviolet;
+}
+.y:hover{
+    background-color: blue;
+    color: white;
+}
+p{
+    text-align: center;
+    padding: 5px;
+}
